@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate software engineer from Canada 🇨🇦 specializing in high performance algorithms & software testing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-oc&label=Profile%20views&color=0e75b6&style=flat" alt="r-oc" /> </p>
-
 - 👯 I’m looking to collaborate on **Machine Learning**
 
 - 💬 Ask me about **Linux, AI, Machine Learning, C++**
