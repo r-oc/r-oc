@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate software engineer from Canada 🇨🇦 specializing in high performance algorithms & software testing.</h3>
-
 - 👯 I’m looking to collaborate on **Machine Learning**
 
 - 💬 Ask me about **Linux, AI, Machine Learning, C++**
