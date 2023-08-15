@@ -1,4 +1,3 @@
-- 👯 I’m looking to collaborate on **Machine Learning**
 
 - 💬 Ask me about **Linux, AI, Machine Learning, C++**
 
