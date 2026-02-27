@@ -2,7 +2,7 @@
 
 📍 **Toronto, ON**
 
-> Building things. More projects coming soon.
+> ...
 
 ## Current Projects
 
