@@ -10,7 +10,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/r-oc)
+![GitHub Contribution Graph](https://ghchart.rshah.org/r-oc) 
 
 ## What I'm Doing
 
