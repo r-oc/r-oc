@@ -8,10 +8,6 @@
 
 *Stay tuned — something's brewing.*
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/r-oc) 
-
 ## What I'm Doing
 
 - **Learning & building** — exploring new ideas and shipping what sticks
