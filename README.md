@@ -6,12 +6,11 @@
 
 ## Current Projects
 
-*Stay tuned — something's brewing.*
+* 📝 **[delere](https://github.com/r-oc/delere)** - Secure, compliance-aware PII redaction for PDF documents.
 
 ## What I'm Doing
 
-- **Learning & building** — exploring new ideas and shipping what sticks
-- **Rapid prototyping** — full apps in days, not months
+- **Learning & building** — building in regulated industries
 
 ## Connect
 
