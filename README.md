@@ -2,13 +2,12 @@
 
 📍 **Toronto, ON**
 
-> ...
 ## Current Projects
 
 * 🏢 **[Quality Credit Reporting](https://qualitycreditreporting.com)** - Corporate, credit, and background reporting services.
 * 💼 **Quality Hiring** - Hiring and screening platform. *(qualityhiring.ca)*
 * 📝 **[delere](https://github.com/r-oc/delere)** - Secure, compliance-aware PII redaction for PDF documents.
-* 
+
 ## What I'm Doing
 
 - **Learning & building** — building in regulated industries
